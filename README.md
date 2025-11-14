@@ -59,6 +59,8 @@ Voici un exemple de l'exécution du programme (screenshot) :
 <img width="657" height="634" alt="image" src="https://github.com/user-attachments/assets/04cc16f8-a715-4b79-9a19-4d727f9abb53" />
 <img width="748" height="626" alt="image" src="https://github.com/user-attachments/assets/dcee5988-6ad4-4e87-b176-34bed682760c" />
 <img width="763" height="629" alt="image" src="https://github.com/user-attachments/assets/c8dc8058-3d5d-49a2-9ef7-e40dd85398e9" />
+<img width="514" height="256" alt="image" src="https://github.com/user-attachments/assets/dc5e9226-2cc0-4de0-b4ea-55c535e1ead0" />
+
 
 
 
